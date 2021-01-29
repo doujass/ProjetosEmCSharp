@@ -1,0 +1,7 @@
+C:\Users\douglas\Desktop\C#\AprendendoCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\douglas\Desktop\C#\AprendendoCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\douglas\Desktop\C#\AprendendoCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\douglas\Desktop\C#\AprendendoCSharp\ConsoleApp1\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\douglas\Desktop\C#\AprendendoCSharp\ConsoleApp1\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Desktop\C#\AprendendoCSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\douglas\Desktop\C#\AprendendoCSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
